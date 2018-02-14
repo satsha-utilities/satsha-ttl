@@ -38,12 +38,12 @@ Downloads
 
 **downloads (right click download as):**
 
-- **[satsha-ttl schematic](https://gitlab.fabcloud.org/satsha/satsha-ttl/raw/master/eagle/satsha-ttl/satsha-ttl.sch)**
-- **[satsha-ttl board](https://gitlab.fabcloud.org/satsha/satsha-ttl/raw/master/eagle/satsha-ttl/satsha-ttl.brd)**
-- **[satsha-ttl internal traces png](https://gitlab.fabcloud.org/satsha/satsha-ttl/raw/master/media/internal.png)**
-- **[satsha-ttl cutout png](https://gitlab.fabcloud.org/satsha/satsha-ttl/raw/master/media/cut.png)**
-- **[satsha-ttl BOM ods](https://gitlab.fabcloud.org/satsha/satsha-ttl/raw/master/docs/satsha-ttl-BOM.ods)**
-- **[satsha-ttl BOM xlsx](https://gitlab.fabcloud.org/satsha/satsha-ttl/raw/master/docs/satsha-ttl-BOM.xlsx)**
+- **[satsha-ttl schematic](https://github.com/satsha-utilities/satsha-ttl/raw/master/eagle/satsha-ttl/satsha-ttl.sch)**
+- **[satsha-ttl board](https://github.com/satsha-utilities/satsha-ttl/raw/master/eagle/satsha-ttl/satsha-ttl.brd)**
+- **[satsha-ttl internal traces png](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/internal.png)**
+- **[satsha-ttl cutout png](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/cut.png)**
+- **[satsha-ttl BOM ods](https://github.com/satsha-utilities/satsha-ttl/raw/master/docs/satsha-ttl-BOM.ods)**
+- **[satsha-ttl BOM xlsx](https://github.com/satsha-utilities/satsha-ttl/raw/master/docs/satsha-ttl-BOM.xlsx)**
 
 Getting started with satsha-ttl
 --
