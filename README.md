@@ -40,8 +40,10 @@ Downloads
 
 - **[satsha-ttl schematic](https://github.com/satsha-utilities/satsha-ttl/raw/master/eagle/satsha-ttl/satsha-ttl.sch)**
 - **[satsha-ttl board](https://github.com/satsha-utilities/satsha-ttl/raw/master/eagle/satsha-ttl/satsha-ttl.brd)**
-- **[satsha-ttl internal traces png](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/internal.png)**
-- **[satsha-ttl cutout png](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/cut.png)**
+- **[satsha-ttl internal traces png 0.1mm](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/internal.png)**
+- **[satsha-ttl cutout png 0.1mm](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/cut.png)**
+- **[satsha-ttl internal traces png 0.2mm](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/internal_02.png)**
+- **[satsha-ttl cutout png 0.2mm](https://github.com/satsha-utilities/satsha-ttl/raw/master/media/cut_02.png)**
 - **[satsha-ttl BOM ods](https://github.com/satsha-utilities/satsha-ttl/raw/master/docs/satsha-ttl-BOM.ods)**
 - **[satsha-ttl BOM xlsx](https://github.com/satsha-utilities/satsha-ttl/raw/master/docs/satsha-ttl-BOM.xlsx)**
 
